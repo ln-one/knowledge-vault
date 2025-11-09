@@ -1,43 +1,20 @@
-
+# macOS 系统文件
 .DS_Store
 .AppleDouble
 .LSOverride
 
-）
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/workspace*.json
+# Obsidian 配置文件夹（完全不同步）
+.obsidian/
 
-
-.obsidian/cache
-.obsidian/workspace-mobile.json
-
-
-.obsidian/plugins/*/data.json
-
-
+# 回收站
 .trash/
 
-
-.obsidian/file-recovery.json
-
-
+# 同步冲突文件
 *conflicted copy*.json
 *conflicted copy*.md
 
-
-.obsidian/hotkeys.json
-
-.obsidian/graph.json
-
-.obsidian/bookmarks.json
-
-
-.obsidian/.obsidian.vimrc
-.obsidian/*
-.obsidian/
-
+# 压缩文件
 *.zip
 
-
+# IDE 配置
 .vscode/
