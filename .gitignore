@@ -36,7 +36,8 @@
 
 # Vim 配置（如果不是所有人都用）
 .obsidian/.obsidian.vimrc
-
+.obsidian/*
+.obsidian/
 # 压缩文件
 *.zip
 
