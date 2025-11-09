@@ -1,45 +1,43 @@
-# macOS 系统文件
+
 .DS_Store
 .AppleDouble
 .LSOverride
 
-# Obsidian 工作区配置（个人设置，不需要分享）
+）
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 .obsidian/workspace*.json
 
-# Obsidian 缓存和临时文件
+
 .obsidian/cache
 .obsidian/workspace-mobile.json
 
-# 插件配置（可能包含个人设置）
+
 .obsidian/plugins/*/data.json
 
-# 回收站
+
 .trash/
 
-# 文件恢复备份
+
 .obsidian/file-recovery.json
 
-# 同步冲突文件
+
 *conflicted copy*.json
 *conflicted copy*.md
 
-# 个人热键配置
+
 .obsidian/hotkeys.json
 
-# 图谱配置（个人视图）
 .obsidian/graph.json
 
-# 书签（个人收藏）
 .obsidian/bookmarks.json
 
-# Vim 配置（如果不是所有人都用）
+
 .obsidian/.obsidian.vimrc
 .obsidian/*
 .obsidian/
-# 压缩文件
+
 *.zip
 
-# IDE 配置
+
 .vscode/
