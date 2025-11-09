@@ -1,0 +1,19 @@
+{
+  "showLineNumber": false,
+  "vimMode": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "userIgnoreFilters": [
+    "99_Templates/"
+  ],
+  "newFileFolderPath": "00_Map-Of-Content/00_Inbox",
+  "attachmentFolderPath": "00_Map-Of-Content/03_Resources/Medias",
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 60
+  }
+}

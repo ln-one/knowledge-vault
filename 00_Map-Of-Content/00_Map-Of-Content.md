@@ -1,0 +1,64 @@
+%% Begin Waypoint %%
+- **00_Inbox**
+- **01_Projects**
+	- **[[About-Face-Four]]**
+	- **Algorithm**
+		- [[Chapter-1-Basic]]
+		- [[Chapter-2-Sorting]]
+	- **Basic**
+		- [[231.2的幂]]
+		- [[263. 丑数]]
+		- [[326.3的幂]]
+		- [[584. 寻找用户推荐人]]
+		- [[857.转置矩阵]]
+		- [[1422.分割字符串的最大得分]]
+		- [[1486.数组异或操作]]
+		- [[1512.好数对的数目]]
+		- [[1534. 统计好三元组]]
+		- [[2235.两整数相加]]
+		- [[2236.判断根结点是否等于子结点之和]]
+		- [[2413.最小偶倍数]]
+		- [[2469. 温度转换]]
+	- **[[Computer-Graphics]]**
+	- **[[Computer-Network]]**
+	- **CSAPP-lab**
+		- [[Data-lab]]
+	- **CSAPP-note**
+		- [[Chapter-1-计算机系统漫游]]
+		- [[Chapter-2-信息的表示和处理]]
+		- [[Chapter-3-程序的机器级表示]]
+	- **[[HCI]]**
+	- **[[Linux-Kernel-Development]]**
+	- **[[Python]]**
+	- **Software-Engineering**
+	- **[[Software-Testing]]**
+- **02_Areas**
+	- **Algorithm**
+		- **LeetCode**
+			- [[刷题技巧]]
+		- **Luogu_CPP**
+			- **[[Basic-1-SequentialStructure]]**
+			- **[[Basic-2-Branch structure]]**
+			- **[[Mathematics-1-Basic]]**
+	- **[[Computer-System]]**
+	- **Encryption**
+		- [[Ubuntu使用Yubikey达到sudo免输入密码或作为二次验证]]
+		- [[Yubikey连接服务器]]
+	- **Env**
+		- [[利用Docker部署BombLAB虚拟环境]]
+- **03_Resources**
+	- **Clippings**
+	- **Markdown_Fundamentals**
+		- **Markdown_Practices**
+			- [[Markdown-Practice-2025-08-06]]
+		- [[Markdown-Cheatsheet]]
+		- [[MarkDown超级教程 Obsidian版 2022.1.12]]
+	- **Medias**
+
+	- [[Tag-Index.md]]
+	- **Templates**
+		- [[Algorithm-Template]]
+		- [[Normal-Template]]
+- **04_Archives**
+
+%% End Waypoint %%
