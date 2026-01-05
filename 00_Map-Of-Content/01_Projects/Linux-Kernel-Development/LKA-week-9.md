@@ -4,7 +4,7 @@ tags:
 created: 2025-11-03
 author:
   - ln1
-status: In Progress
+status: Done
 ---
 text file -> executable file/binary
 

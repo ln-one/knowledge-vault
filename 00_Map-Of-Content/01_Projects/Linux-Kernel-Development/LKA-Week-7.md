@@ -5,7 +5,7 @@ tags:
 created: 2025-10-20
 author:
   - ln1
-status: In Progress
+status: Done
 ---
 ## 转移控制(control transfer)
 - 调用者(Caller)
